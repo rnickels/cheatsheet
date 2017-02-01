@@ -1,5 +1,4 @@
-Create new virtual machine
-=================================
+# Create new virtual machine
 
 1. get the machine image: hashicorp/precise64
 2. start the virtual machine
@@ -12,8 +11,7 @@ $ vagrant up
 $ vagrant ssh
 ~~~
 
-Destroy virtual machine
-=======================
+# Destroy virtual machine
 
 1. destroy the VM in the current directory
 
